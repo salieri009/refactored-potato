@@ -1,4 +1,4 @@
-//create a web server
+//create web server
 var http = require('http');
 var fs = require('fs');
 
